@@ -73,15 +73,21 @@ tibble(ID = c("1", "2", "...", "10", "11", "...", "N"),
 
 > What are the units, precisely?
 
-The units are people or adults in the United States.
+>>The units are people or adults in the United States.  N is in the millions.
 
 > What is the moment in time, precisely?
 
+>>The moment is now.
+
 > What is one reason why validity might not hold?
+
+>>
 
 <!-- Assume validity holds, and we can create the Population Table -->
 
 > Describe the Population Table in words
+
+
 
 > What is one reason why stability might not hold?
 
